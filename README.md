@@ -6,9 +6,8 @@ and you need to provide the dataset path, model epochs, and the location to save
 - Dataset link used: https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
 
 File format:
--flower_photo/
-  --daisy/
-  --dandelion/
-  --roses/
-  --sunflowers/
-  --tulips/
+![Örnek Resim](/docs/example.png)
+
+Bu, GitHub README dosyasında resim eklemek için bir örnektir.
+
+
